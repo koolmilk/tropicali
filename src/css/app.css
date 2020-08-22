@@ -9,7 +9,7 @@
 
     --main-spacing: 64px;
     --gap-spacing: 40px;
-    --hero-spacing: 120px;
+    --hero-spacing: 260px;
 
     --header-height: 80px;
 
@@ -21,7 +21,7 @@
     :root {
         --main-spacing: 40px;
         --gap-spacing: 32px;
-
+        --hero-spacing: 120px;
         --centered-width: 75%;
     }
 }
